@@ -16,3 +16,18 @@ x轴 – 自车面向前方时，指向车辆右侧
 **[planning]** - 主要关注几秒之内汽车的行驶路径，根据当前行驶过程中的交通规则，车辆行人等信息，规划一条短期路径。
 
 routing = planning1 + planning2 + planning3 + ...
+
+## control
+
+## perception
+
+## sensor
+
+## simulation platform
+vtd与ros的交互
+StaticObjectStates
+LaneInfos
+RoadMarkInfos
+TrafficSignInfos
+TrafficLightInfos
+SensorObjectInfos
